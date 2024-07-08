@@ -1,16 +1,20 @@
-## Hi there 👋
+### 👋 Hi, I’m Vora Aryan
+### 👨‍💻 I’m a Full Stack Web Development enthusiast🌐.
+### 🎓 I’m currently doing MCA at LDRP-ITR, Gandhinagar.
+___
 
-<!--
-**vora-aryan/vora-aryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+###  ⚙ Technologies and tools I have worked with :
+### Languages : 
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,kotlin,php,swift" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend technologies: 
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,materialui,babel,css,sass,bootstrap," />
+
+### Backend technologies: 
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql" />
+
+### Version control and other: 
+<img src="https://skillicons.dev/icons?i=git,github,netlify,firebase,postman" />
+
+
