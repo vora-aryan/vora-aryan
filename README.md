@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Vora Aryan
-### 👨‍💻 I’m a Full Stack Web Development enthusiast🌐.
+### 👨‍💻 I’m a Full Stack Web Development enthusiast.
 ### 🎓 I’m currently doing MCA at LDRP-ITR, Gandhinagar.
 ___
 
