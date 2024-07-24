@@ -15,6 +15,6 @@ ___
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql" />
 
 ### Version control and other: 
-<img src="https://skillicons.dev/icons?i=git,github,netlify,firebase,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,netlify,postman" />
 
 
