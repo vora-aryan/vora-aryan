@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Vora Aryan
 ### 👨‍💻 I’m a Full Stack Web Development enthusiast.
-### 🎓 I’m currently working as frontend dev at [Socialpilot] (https://www.socialpilot.co/).
+### 🎓 I’m currently working as frontend dev at [Socialpilot](https://www.socialpilot.co/).
 ___
 
 
